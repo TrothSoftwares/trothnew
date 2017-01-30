@@ -145,7 +145,7 @@ body {
 
 a {
 	text-decoration: none !important;
-	color: #2181f4;
+	color: #058aa8;
 }
 
 a:hover { color: #222; }
@@ -3320,7 +3320,7 @@ body:not(.stretched) .slider-parallax .slider-parallax-inner { left: auto; }
 #page-title {
 	position: relative;
 	padding: 30px 0;
-	background-color: #2181f4;
+	background-color: #058aa8;
 	border-bottom: 1px solid #EEE;
 }
 
@@ -4530,7 +4530,7 @@ body:not(.device-touch):not(.device-xs):not(.device-xxs) .portfolio-overlay {
 	position: absolute;
 	top: 50%;
 	left: 50%;
-	background-color: #2181f4;
+	background-color: #058aa8;
 	width: 40px !important;
 	height: 40px !important;
 	margin: -28px 0 0 -44px;
@@ -4567,7 +4567,7 @@ body:not(.device-touch):not(.device-xs):not(.device-xxs) .portfolio-overlay a {
 .iportfolio:hover a.center-icon { opacity: 1; }
 
 .portfolio-overlay a:hover {
-	color: #2181f4;
+	color: #058aa8;
 	background-color: #EEE;
 }
 
@@ -4924,7 +4924,7 @@ body.device-touch.device-xxs .portfolio-notitle .portfolio-overlay { display: no
 	position: relative;
 	margin: 0 0 50px;
 	padding: 0 0 50px;
-	border-bottom: 2px solid #2181f4;
+	border-bottom: 2px solid #058aa8;
 }
 
 .entry-image { margin-bottom: 30px; }
@@ -4953,7 +4953,7 @@ body.device-touch.device-xxs .portfolio-notitle .portfolio-overlay { display: no
 
 .entry-title h2 a { color: #333; }
 
-.entry-title h2 a:hover { color: #2181f4; }
+.entry-title h2 a:hover { color: #058aa8; }
 
 .entry-meta {
 	margin: 10px -10px -15px 0;
@@ -5482,7 +5482,7 @@ body:not(.device-touch) .entry-link {
 .mpost .entry-title h4 a { color: #333; }
 
 .spost .entry-title h4 a:hover,
-.mpost .entry-title h4 a:hover { color: #2181f4; }
+.mpost .entry-title h4 a:hover { color: #058aa8; }
 
 .spost .entry-meta { margin: 8px -10px 0 0; }
 
@@ -6608,7 +6608,7 @@ body:not(.device-xs):not(.device-xxs) .countdown.countdown-large.coming-soon .co
 	font-size: 14px;
 	height: 40px;
 	line-height: 40px;
-	background-color: #2181f4;
+	background-color: #058aa8;
 	color: #FFF;
 	font-weight: 600;
 	text-transform: uppercase;
@@ -11997,8 +11997,8 @@ body:not(.device-touch) .tagcloud a {
 }
 
 .tagcloud a:hover {
-	border-color: #2181f4 !important;
-	color: #2181f4 !important;
+	border-color: #058aa8 !important;
+	color: #058aa8 !important;
 }
 
 
@@ -12451,7 +12451,7 @@ body:not(.device-touch) .tagcloud a {
 
 .nav-pills > li.active > a,
 .nav-pills > li.active > a:hover,
-.nav-pills > li.active > a:focus { background-color: #2181f4; }
+.nav-pills > li.active > a:focus { background-color: #058aa8; }
 
 label.radio,
 label.checkbox { padding-left: 20px; }
