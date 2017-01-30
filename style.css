@@ -6795,7 +6795,7 @@ body:not(.device-touch) .button {
 }
 
 .button.button-3d:hover {
-	background-color: #2181f4 !important;
+	background-color: #1591a9 !important;
 	opacity: 0.9;
 }
 
@@ -9871,7 +9871,7 @@ body:not(.device-touch) .clients-grid li a {
 
 .team-title span {
 	display: block;
-	color: #2181f4;
+	color: #058aa8;
 	font-weight: 400;
 	font-family: 'Crete Round', serif;
 	font-style: italic;
